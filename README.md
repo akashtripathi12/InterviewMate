@@ -5,7 +5,7 @@
   </a>
 
   <p align="center">
-    Make your Interview Hit with Interview Lit
+    Make your Interview Meet cool with InterviewMate
   </p>
 
 # About The Project
@@ -24,22 +24,16 @@ It can also be used as a platform for interviews where the interviewer can creat
    , **_Enter an Interview_**
    , **_Hosted Interviews_**
 
-   ![alt text](https://res.cloudinary.com/https-mykart1-herokuapp-com/image/upload/v1659030839/RCE/Screenshot_from_2022-07-28_23-15-20_dzj7tp.png)
-
 2. **IDE Screen**:
    1. **_Dual Theme Implementation (Light and Dark Mode)_**
    2. **_Various Languages Support_**: c, c++, python, java, javascript
    3. **_IDE to Code_**
    4. **_Input_**: Input Section for input of the Code if required
-   5. **_Output_**: Output Section to Display the Output or to Show Error if occurred.
-
-![alt text](https://res.cloudinary.com/https-mykart1-herokuapp-com/image/upload/v1659031137/RCE/Screenshot_from_2022-07-28_23-27-36_pxeuet.png)
+   5. **_Output_**: Output Section to Display the Output or to Show Error if occurred
 
 3. **Hosted Interviews Screen**:
 
    1. **_List of Previously Hosted Interview Codes_**: Contains Timestamps, Share Code , Enter Internview, Delete, Copy Interview Link functionality
-
-   ![alt text](https://res.cloudinary.com/https-mykart1-herokuapp-com/image/upload/v1659030824/RCE/Screenshot_from_2022-07-28_23-18-17_xnrwxa.png)
 
 4. **Interview Screen**:
 
