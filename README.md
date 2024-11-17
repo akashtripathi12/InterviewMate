@@ -1,8 +1,4 @@
 <br />
-<p align="center">
-  <a href="https://github.com/rohitsigar/Interview-Lit">
-    <img src="https://res.cloudinary.com/https-mykart1-herokuapp-com/image/upload/v1659032990/RCE/InterviewLit_1_ktxjeq.png" alt="Logo" width="200" height="200">
-  </a>
 
   <p align="center">
     Make your Interview Meet cool with InterviewMate
